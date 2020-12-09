@@ -1,7 +1,7 @@
 {
   "name": "atv01",
   "version": "1.0.0",
-  "description": "",
+  "description": "https://github.com/JailsonSousa/piw-2020.2/tree/main/atv01",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/server.js",
